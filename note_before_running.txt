@@ -1,0 +1,7 @@
+======================================IMPORTANT=========================================
+If you are using windows console please uncomment Line 5 and comment Line 6. Thank you.
+Do not uncomment anything if you are using linux terminal.
+
+======================================NOTE================================
+data.in has the default user profiles that are registered on the bank
+you can either rename, delete, edit or add manually in data.in
